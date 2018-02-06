@@ -52,3 +52,6 @@ p{
     color:white;
 }
 
+.col-sm-4 .card-body{
+    height:200px;
+}
