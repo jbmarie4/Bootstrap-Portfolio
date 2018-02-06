@@ -1,6 +1,6 @@
 .card-body{
-    height:500px;
-    margin: 10px 50px;    
+    height:465px;
+    background-color:gray;   
 }
 
 h1{
@@ -18,12 +18,37 @@ h1{
     position:relative;
     z-index:1;
     opacity:1;
-    height:50px;
+    height:58px;
     width:100%;
     text-align:center;
+    background:gray;
+    color:white;
+
 }
 
 .nav-link{
     color:darkgray;
+    margin-top:15px;
     
 }
+
+.header{
+    border: solid darkgray 2px;
+    width:100%;
+    height:73px;
+    background-color:white;
+    margin-top:-1px;
+}
+
+.container{
+    margin: 50px;
+}
+
+.card{
+    background-image:url("background_wormz.png");
+}
+
+p{
+    color:white;
+}
+
