@@ -135,6 +135,8 @@ img{
 #portfolio{
     border:solid darkgray;
     background-color: white;
+    width:600px;
+    margin-top:50px;
 }
 
 .wrap{
@@ -150,7 +152,7 @@ img{
     width: 300px;
 }
 
-.card-body2{
+.card-body2, #card-body2{
     border: solid darkgray;
     width:120%;
 }
@@ -170,7 +172,39 @@ img{
     border-color:darkgray;
 }
 
-/************************************ Form **********************************/
+h5{
+    margin-top:60px;
+    font-size:16px;
+    color:white;
+    border:solid teal;
+    padding: 4px;
+    background-color:teal;
+}
+
+.card-body3{
+    border-top:solid darkgray;
+}
+
+.card3{
+    height:100%;
+    width:130px;
+}
+
+.card-img-top{
+    border-top: solid darkgray;
+    border-right: solid darkgray;
+    border-left: solid darkgray;
+    height: 135px;
+    width:100%;
+}
+
+.card-text{
+    color:white;
+    background-color:teal;
+    text-align:center;
+    height:50px;
+}
+/************************************ Contact **********************************/
 
 form{
     border:solid transparent;
