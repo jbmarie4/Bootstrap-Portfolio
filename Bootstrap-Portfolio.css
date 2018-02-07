@@ -5,6 +5,12 @@
     overflow:hidden; 
 }
 
+.card-body2{
+    height:150px;
+    background-color:white;
+    overflow:hidden;
+}
+
 .card-bodyAside{
     height:100%;
     background-color:white;
@@ -125,16 +131,46 @@ img{
     margin: 7px 7px 0px 0px;
 }
 
-/* Portfolio */
+/***********************************Portfolio *********************************/
 #portfolio{
-    border:solid;
+    border:solid darkgray;
+    background-color: white;
 }
 
 .wrap{
     margin:auto;
 }
 
-/* Form */
+.card-bodyAside2{
+    height: 100%;
+    background-color: white;
+    overflow: hidden;
+    border: solid darkgray 2px;
+    padding: 10px;
+    width: 300px;
+}
+
+.card-body2{
+    border: solid darkgray;
+    width:120%;
+}
+
+ #portfolioPics{
+     max-width:100%;
+ }
+
+.btn-primary{
+    color:white;
+    background-color:black;
+    border-color:black;
+}
+
+.btn-primary:hover{
+    background-color:darkgray;
+    border-color:darkgray;
+}
+
+/************************************ Form **********************************/
 
 form{
     border:solid transparent;
