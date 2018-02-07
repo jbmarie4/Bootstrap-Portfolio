@@ -124,3 +124,22 @@ p{
 img{
     margin: 7px 7px 0px 0px;
 }
+
+/* Portfolio */
+#portfolio{
+    border:solid;
+}
+
+.wrap{
+    margin:auto;
+}
+
+/* Form */
+
+form{
+    border:solid transparent;
+    background-color:white;
+    padding:10px;
+    height:100%;
+
+}
